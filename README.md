@@ -2,7 +2,7 @@
 
 A Pipefy interface clone. The app's main purpose is recreate the drag and drop functionality, which was made with React DnD. Used styled-components for styling.
 
-![Farmers Market Finder Demo](src/demo/pipefyAppDemo.gif)
+![](src/demo/pipefyCloneDemo.gif)
 
 #  Installation :computer:
 Make sure your have Node.js installed on your computer.
